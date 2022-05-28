@@ -3,28 +3,28 @@
   <a href="#"><img width="60%" src="https://readme-typing-svg.herokuapp.com?color=purple&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salavisushant&label=Profile%20views&color=0e75b6&style=flat" alt="salavisushant" /> </p>
 
-<h3 align="center">🌱  I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. Once I graduated in engineering, I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
+
+<h3 align="center">🌱 I graduted from Non-Tech Background But I have always been curious about technology, even as a child. I spent a lot of time around computers and that made me even more curious. After Graduation i worked as Cashier in Some Private Firm, during That time I decided that it was time to satiate my curiosity and dive into the world of coding.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 📫 How to reach me **salavisush88@gmail.com**
+- 📫 How to reach me **paswanshubam0309@outlook.com**
 
-- 🚀 My Portfolio **https://sushantsalavi.vercel.app/**
+- 🚀 My Portfolio ****
 
-- 👨‍💻 See My work on  ***[Github Repositories](https://github.com/salavisushant?tab=repositories)***
+- 👨‍💻 See My work on  ***[Github Repositories](https://github.com/spaswan141?tab=repositories)***
 
-- 🌱 I am also interested in Sketching and Photography.
+- 🌱 I am also interested in Playing Cricket,Cooking and Travelling New Places.
 
 </br>
 
 ## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/salavi_sushant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salavi_sushant" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sushant-salavi24021996/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sushant-salavi24021996" height="30" width="40" /></a>
-<a href="https://instagram.com/sushant_salavi_2402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sushant_salavi_2402" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shubham.paswan.965/" target="blank"><img align="center" src="https://p.kindpng.com/picc/s/20-209854_high-resolution-facebook-logo-png-transparent-background-png.png" alt="SHubham Paswan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubham-paswan-1aa2ba237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-paswan-1aa2ba237" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/im_shubham_paswan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_shubham_paswan" height="30" width="40" /></a>
 </p>
 
 </br>
@@ -54,7 +54,7 @@
 ## 📊 My Github Stats
 
  <br/>
-    <a href="https://github.com/salavisushant/github-readme-stats"><img alt="Sushannt Salavi's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=salavisushant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/spaswan141/github-readme-stats"><img alt="Shubham Paswan's Github Stats" style="width:54%" src="https://github-readme-stats.vercel.app/api?username=spaswan141&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 
