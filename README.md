@@ -22,7 +22,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://www.facebook.com/shubham.paswan.965/" target="_blank"> <img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="SHubham Paswan" height="30" width="45" /></a>
+<a href="https://www.facebook.com/shubham.paswan.965/" target="_blank"> <img align="center" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-facebook-icon-png-images-icons-and-png-backgrounds-1.png" alt="SHubham Paswan" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/shubham-paswan-1aa2ba237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shubham-paswan-1aa2ba237" height="30" width="40" /></a>
 <a href="https://www.instagram.com/im_shubham_paswan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_shubham_paswan" height="30" width="40" /></a>
 </p>
@@ -43,6 +43,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/express.png"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*mn6bOs7s6Qbao15PMNRyOA.png"/> </a>
     <a href="https://icons8.com/icon/111953/json"><img src="https://img.icons8.com/material-outlined/48/000000/json.png"/></a>
     <a href="https://icons8.com/icon/24895/npm"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
     <a href="https://icons8.com/icon/gFw7X5Tbl3ss/material-ui"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
